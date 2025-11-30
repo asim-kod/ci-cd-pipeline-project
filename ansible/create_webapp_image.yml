@@ -1,0 +1,14 @@
+---
+- hosts: ansible
+
+  tasks:
+  - name: create docker image
+    command: docker build -t webapp:latest .
+    args:
+      chdir: /opt/webapp_deployment
+
+  - name: tagging to push image onto dockerhub
+    command: docker tag webapp:latest asimkod/webapp:latest
+
+  - name: push docker image
+    command: docker push asimkod/webapp:latest
