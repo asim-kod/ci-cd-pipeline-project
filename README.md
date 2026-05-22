@@ -22,7 +22,7 @@ The system is divided into two major stages: **Continuous Integration (CI)** and
 
 **Goal:** Build → Docker Image → Push to DockerHub (Fully Automated)
 
-## 🚀 Continuous Delivery (CD)
+## 🚀 Continuous Delivery/Deployment (CD)
 - Once the CI job succeeds, Jenkins triggers the **CD job**.  
 - **Ansible** connects to the **Kubernetes server** and remotely runs the pre-existing **Kubernetes deployment configuration file**. 
 - The application is deployed to a **Kubernetes cluster**.
