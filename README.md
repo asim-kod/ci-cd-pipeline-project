@@ -5,7 +5,7 @@
 
 ## 🏗️ Architecture Flow  
 <p align="center">
-  <img src="./images/Pipeline-Flow.png" width="850px" />
+  <img src="./images/Pipeline-Flow2.png" width="850px" />
 </p>
 
 ## 📌 Project Overview
