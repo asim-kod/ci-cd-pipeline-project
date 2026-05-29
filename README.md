@@ -45,6 +45,43 @@ For testing purposes, please follow **one** of the above methods based on your p
 
 **Goal:** DockerHub → Kubernetes Deployment (Automated Delivery)
 
+## 🏗️ CICD In Action
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./images/Jobs.jpg" width="400px"/><br>
+      <b>All Jenkins Jobs</b>
+    </td>
+    <td align="center">
+      <img src="./images/CI_Job.jpg" width="400px"/><br>
+      <b>CI Job</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="./images/CD_Job.jpg" width="400px"/><br>
+      <b>CD Job</b>
+    </td>
+    <td align="center">
+      <img src="./images/DockerHub_Image.jpg" width="400px"/><br>
+      <b>DockerHub Image</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="./images/App_On_K8s.jpg" width="400px"/><br>
+      <b>Application on Kubernetes</b>
+    </td>
+    <td align="center">
+      <img src="./images/Webapp.jpg" width="400px"/><br>
+      <b>Web Application</b>
+    </td>
+  </tr>
+</table>
+
 ## 🎯 Key Highlights
 - Fully automated CI/CD pipeline  
 - Jenkins, Maven, Ansible, Docker, and Kubernetes working together  
