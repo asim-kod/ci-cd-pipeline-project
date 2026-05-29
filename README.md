@@ -5,7 +5,7 @@
 
 ## 🏗️ Architecture Flow  
 <p align="center">
-  <img src="./images/Pipeline-Flow2.png" width="850px" />
+  <img src="./images/Pipeline-Flow.png" width="850px" />
 </p>
 
 ## 📌 Project Overview
@@ -50,33 +50,33 @@ For testing purposes, please follow **one** of the above methods based on your p
 <table>
   <tr>
     <td align="center">
-      <img src="./images/Jobs.jpg" width="400px"/><br>
+      <img src="./images/Jobs.png" width="400px"/><br>
       <b>All Jenkins Jobs</b>
     </td>
     <td align="center">
-      <img src="./images/CI_Job.jpg" width="400px"/><br>
+      <img src="./images/CI_Job.png" width="400px"/><br>
       <b>CI Job</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="./images/CD_Job.jpg" width="400px"/><br>
+      <img src="./images/CD_Job.png" width="400px"/><br>
       <b>CD Job</b>
     </td>
     <td align="center">
-      <img src="./images/DockerHub_Image.jpg" width="400px"/><br>
+      <img src="./images/DockerHub_Image.png" width="400px"/><br>
       <b>DockerHub Image</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="./images/App_On_K8s.jpg" width="400px"/><br>
+      <img src="./images/App_On_K8s.png" width="400px"/><br>
       <b>Application on Kubernetes</b>
     </td>
     <td align="center">
-      <img src="./images/Webapp.jpg" width="400px"/><br>
+      <img src="./images/Webapp.png" width="400px"/><br>
       <b>Web Application</b>
     </td>
   </tr>
